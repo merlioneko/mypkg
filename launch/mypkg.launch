@@ -1,0 +1,5 @@
+<launch>
+ <node pkg="mypkg" name="count" type="count.py" required="true" />
+ <node pkg="mypkg" name="xplace" type="xplace.py" output="screen" required="true" />
+ <node pkg="mypkg" name="yplace" type="yplace.py" output="screen" required="true" />
+</launch>
