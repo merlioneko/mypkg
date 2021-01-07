@@ -5,6 +5,7 @@ from std_msgs.msg import String
 
 n = 0
 x = 0
+
 def cb(message):
     global n 
     n = message.data 
