@@ -1,10 +1,10 @@
 # mypkg
 
-##概要
+## 概要
 
 　ランダムに平面座標系を動く質点のROSパッケージになります.
 
-##動作環境
+## 動作環境
 
 OS:Ubuntu 20.04.1 LTS
 
@@ -13,7 +13,7 @@ ROS VERSION:1
 使用言語:Python3
 
 
-##使用方法
+## 使用方法
 
 　mypkg/scripts内の各スクリプトをパーミッションしてください.
 
@@ -38,11 +38,11 @@ ROS VERSION:1
 `$ rostopic echo /yplace`
 
 
-#動作
+# 動作
 
 <https://youtu.be/vTdCxXmPPug>
 
 
-#ライセンス
+# ライセンス
 
 　ディレクトリ内のLICENSEに則ります.
